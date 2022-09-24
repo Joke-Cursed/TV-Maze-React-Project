@@ -17,7 +17,7 @@
   2. More practical use of react hooks
   3. Benefits of react.
   
-<h3> Hosted Link : </h3> https://tv-maze-react-project-nc5v.vercel.app/
+<span><h3> Hosted Link : </h3> https://tv-maze-react-project-nc5v.vercel.app/</span>
 
 
 
