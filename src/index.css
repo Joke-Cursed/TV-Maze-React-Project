@@ -1,0 +1,21 @@
+body {
+   background-image: url('https://th.bing.com/th/id/R.5ef1aa2ce5098fddb5bc5d5f8f0aeb93?rik=TPhvy0MpOLqj3g&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f9%2fc%2f6%2f623918.jpg&ehk=pA2ylmocbfMqSRxrkY%2bABj8J9RV9XJ7cB%2bqdcQe6Ld8%3d&risl=&pid=ImgRaw&r=0'); 
+  /* height: 80px; */
+  overflow-y: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
